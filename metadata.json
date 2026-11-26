@@ -1,0 +1,6 @@
+{
+  "name": "PDF MV",
+  "description": "Production-grade native Android PDF Maker & Viewer with zero-dependency PdfRenderer/PdfDocument engine, Image-to-PDF studio, Markdown writer, and Page Organizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
